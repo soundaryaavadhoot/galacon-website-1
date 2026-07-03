@@ -886,7 +886,7 @@ header{
 
 .quality-objective{
     background: linear-gradient(rgba(120,30,30,0.55), rgba(120,30,30,0.55)),
-                url("image/quality-bg.png");
+                url("quality-bg.png");
     background-size: cover;
     background-position: center bottom;
     background-repeat: no-repeat;
